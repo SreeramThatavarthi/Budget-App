@@ -1,0 +1,86 @@
+@media only screen and (max-width:1200px)
+{
+    .income
+    {
+        margin-bottom: 30px;
+    }
+    .expenses
+    {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width:1023px)
+{
+    .container
+    {
+        width:780px;
+    }
+    .income
+    {
+        width:365px;
+        margin-right: 50px;
+        margin-bottom: 40px;
+    }
+    .expenses
+    {
+        width:365px;
+        margin-bottom: 40px;
+    }
+    
+}
+
+@media only screen and (max-width:767px)
+{
+    .add__description { width: 300px;}
+    .container
+    {
+        width:700px;
+    }
+    .income
+    {
+        width:325px;
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+    .expenses
+    {
+        width:325px;
+    }
+    .add__type
+    {
+        margin-bottom: 10px;
+    }
+    .add__description
+    {
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width:480px)
+{
+    .add__description { width: 300px;}
+    .container
+    {
+        width:700px;
+    }
+    .income
+    {
+        width:325px;
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+    .expenses
+    {
+        width:325px;
+    }
+    .add__type
+    {
+        margin-bottom: 10px;
+    }
+    .add__description
+    {
+        margin-bottom: 10px;
+    }
+}
